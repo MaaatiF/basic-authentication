@@ -8,7 +8,7 @@
  * @copyright hex7c0 2014
  * @license GPLv3
  */
-
+//
 /*
  * initialize module
  */
